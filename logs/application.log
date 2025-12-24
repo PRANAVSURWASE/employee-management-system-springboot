@@ -1,0 +1,5 @@
+2025-12-20 02:21:13.436 [INFO] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(497)-127.0.0.1] Application shutdown requested.
+2025-12-20 02:21:13.452 [INFO] o.s.b.t.GracefulShutdown [RMI TCP Connection(497)-127.0.0.1] Commencing graceful shutdown. Waiting for active requests to complete
+2025-12-20 02:21:13.484 [INFO] o.s.b.t.GracefulShutdown [tomcat-shutdown] Graceful shutdown complete
+2025-12-20 02:21:13.492 [INFO] c.z.h.HikariDataSource [RMI TCP Connection(497)-127.0.0.1] HikariPool-1 - Shutdown initiated...
+2025-12-20 02:21:13.497 [INFO] c.z.h.HikariDataSource [RMI TCP Connection(497)-127.0.0.1] HikariPool-1 - Shutdown completed.
